@@ -1,0 +1,28 @@
+TODO: DONE
+1. Make a box that the application will be done in - DONE
+2. Make the outside of the box a shaded nice color - DONE
+3. make 2 boxes in the box (left side - lists, right side - tasks) - DONE
+
+
+TODO: DONE
+1. Make header lists and header tasks - DONE
+2. Make + Lists button for lists and + tasks button for tasks - DONE
+
+TODO: DONE
+1. Make javascript do stuff with new list button - DONE
+2. Make javascript do stuff with new task button - DONE
+
+TODO: DONE
+1. Make a header for the page called CREATE A NEW TASK - DONE
+2. Make list page have a typeable box - DONE
+3. Make a cancel button that goes back to index.html - DONE
+4. Make a create button that creates a list if there are things written on the typeable box. - DONE
+
+TODO: DONE
+1. Make a header for the page called ADD A TASK - DONE
+2. Make task page have a typable box - DONE
+3. Make a cancel button that goes back to newlist.html - DONE
+4. Make a create button that creates a task if there are things written on the typeable box. - DONE
+
+TODO: 
+1. Connect the list and task. Currently list gets inputed, but task is not connectamagerged. 

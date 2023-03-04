@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>MAKE A LIST AND ADD TASKS</title>
+    <link rel="stylesheet" type="text/css" href="newtask.css">
+  </head>
+  <body>
+
+    <!-- This will be for the Navbar -->
+    <section id="navbar"> 
+        <nav>
+            <ul>
+              <li><a href="#">Home</a></li>
+              <li><a href="#">About</a></li>
+              <li><a href="#">Services</a></li>
+              <li><a href="#">Contact</a></li>
+            </ul>
+          </nav>
+    </section>
+
+    <!-- This will be for the body -->
+    <section>
+
+      <div id="applicationbox">
+        <div id="headerdiv">
+            <h1>ADD A TASK</h1>
+        </div>
+        <div id="textdiv">
+            <label for="myText"></label>
+            <input type="text" id="myTaskText" name="myText">
+        </div>
+        <div id="cancelcreatediv">
+            <button id="canceltaskid">Cancel</button>
+            <button id="createtaskid">Create</button>
+        </div>
+        
+      </div>
+
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="newlist.js"></script>
+    <script src="newtask.js"></script>
+  </body>
+</html>
